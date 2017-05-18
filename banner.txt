@@ -1,0 +1,8 @@
+[
+    {"src":"img/banner/deli.jpg"},
+    {"src":"img/banner/defu.jpg"},
+    {"src":"img/banner/jinlongyu.jpg"},
+    {"src":"img/banner/huashuo.jpg"},
+    {"src":"img/banner/shoes.webp"},
+    {"src":"img/banner/clothes.webp"}
+]

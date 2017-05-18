@@ -1,0 +1,17 @@
+[
+    {"src":"img/live/bigchild.webp"},
+    {"src":"img/live/bigclothes.webp"},
+    {"src":"img/live/bigshoes.webp"},
+    {"src":"img/live/bigcooker.webp"},
+    {"src":"img/live/bigsinger.webp"},
+    {"src":"img/live/biggirl.webp"},
+
+    {"src":"img/live/child.webp"},
+    {"src":"img/live/clothes.webp"},
+    {"src":"img/live/shoes.webp"},
+    {"src":"img/live/cooker.webp"},
+    {"src":"img/live/singer.webp"},
+    {"src":"img/live/girl.webp"}
+
+
+]

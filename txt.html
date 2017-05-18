@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DIVCSS5实例 DIV与DIV覆盖</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+        .boxa,.boxb{ margin:0 auto; width:400px;}
+        .boxa-l{ float:left; width:280px; height:80px; border:1px solid #F00}
+        .boxa-r{ float:right; width:100px; height:80px; border:1px solid #F00}
+        .boxb{ border:1px solid #000; height:40px; background:#999}
+    </style>
+</head>
+<body>
+<div class="boxa">
+    <div class="boxa-l">内容左</div>
+    <div class="boxa-r">内容右</div>
+</div>
+<div class="boxb">boxb盒子里的内容</div>
+</body>
+</html>
